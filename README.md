@@ -3,6 +3,7 @@
 
 ## A transformative SQL-driven analysis of Maji Ndogo's water crisis, turning data into actionable insights for a better future.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In this project, I utilized a combination of SQL and Python to connect to a local MySQL database, effectively analyzing data related to the water crisis in Maji Ndogo. 
 
@@ -25,42 +26,60 @@ In the heart of Maji Ndogo, a community on the brink of collapse due to a severe
 Maji Ndogo’s water crisis was a multifaceted problem, deeply affecting the daily lives of its residents. The challenges identified included:
 
 - Widespread Water Contamination: A staggering 18% of the population relied on unsafe river water, with many sources showing high levels of biological and chemical contaminants.
+  
 - Infrastructure Failures: Approximately 30% of the population suffered from non-functional taps and pipelines, leading to water shortages and increased reliance on contaminated sources.
+  
 - Corruption in Water Quality Assessments: Through data analysis, I uncovered systematic corruption where 4 field employees were found to have inflated water quality scores in exchange for bribes, compromising the integrity of the water supply.
 
 
 ### A Glimpse of Insights and Impact:
 
 - 30 New Wells Drilled: By identifying high-risk areas where contaminated river water was the only option, we brought clean water directly to 30,000 people, reducing their dependency on unsafe sources.
+  
 - 500+ Infrastructure Repairs: Through precise mapping of broken taps and pipelines, we restored water access for 20,000 residents, cutting waterborne diseases by 40%.
+  
 - Queue Time Halved: Advanced analysis revealed peak times that overwhelmed shared taps. By strategically deploying additional resources, we slashed queue times by 50%, giving back precious hours to 15,000 families.
 
 
 #### Part of Insights:
 
 - Water Contamination: 18% of the population relied on contaminated river water, leading to widespread health issues.
+  
 - Infrastructure Failures: 30% of the population experienced water shortages due to broken taps and pipelines, affecting 20,000 residents.
+  
 - Corruption in Data: Identified 4 employees manipulating water quality scores for bribes, undermining the integrity of water assessments.
+  
 - Queue Times: Peak queue times, especially on Saturdays and weekday mornings, exceeded 120 minutes, affecting 15,000 families.
+  
 
 #### Part of Solutions:
 
 - Drilling New Wells: Drilled 30 new wells in high-risk areas, providing clean water to 30,000 people and reducing dependence on contaminated sources.
+  
 - Infrastructure Repairs: Repaired over 500 infrastructure issues, restoring water access for 20,000 residents, and reducing waterborne diseases by 40%.
+  
 - Corruption Mitigation: Introduced regular audits and cross-verification to eliminate data manipulation, ensuring accurate water quality assessments.
+  
 - Queue Management: Deployed additional water tankers during peak times, reducing queue times by 50% for 15,000 families.
+  
 
 #### Part of Plans:
 
 - Ongoing Monitoring: Implement real-time data monitoring and regular audits to maintain water quality integrity and quickly address issues.
+  
 - Community Engagement: Involve local communities in managing and maintaining water infrastructure, ensuring long-term sustainability.
+  
 - Infrastructure Expansion: Plan to drill more wells and improve pipelines, aiming for 100% clean water access within 5 years.
+  
 
 #### Part of Outcomes:
 
 - 30,000 people gained access to clean water.
+  
 - 20,000 residents benefited from repaired infrastructure.
+  
 - 40% reduction in waterborne diseases.
+  
 - 15,000 families experienced a 50% reduction in queue times.
 
 
@@ -95,6 +114,7 @@ Maji Ndogo’s water crisis was a multifaceted problem, deeply affecting the dai
 
 - Install MySQL if not already installed.
 - Create your MySQL root password during setup.
+  
 ## Step 3: Run the SQL Script
 
 - Open MySQL Workbench and connect to your MySQL server.
