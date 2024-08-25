@@ -98,6 +98,16 @@ Maji Ndogo’s water crisis was a multifaceted problem, deeply affecting the dai
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Check out my Medium story for more context into the [Sustainable Data-Driven Solutions through Data Analysis of Water Crisis project](https://medium.com/@IamOmarDarwesh/maji-ndogo-transforming-data-into-action-a-journey-of-hope-and-change-33237bd84609).
+
+
+
+- In the story, I delve into the challenges faced by Maji Ndogo and the transformative impact of data-driven solutions on the community's access to clean water. 
+
+- This comprehensive overview provides context on how I used SQL, Python, and advanced analytics to uncover critical issues and implement actionable solutions that significantly improved the quality of life for thousands of residents.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Engaging with Sustainable-Data-Driven-Solutions-through-Data-Analysis-of-Water-Crisis Project
