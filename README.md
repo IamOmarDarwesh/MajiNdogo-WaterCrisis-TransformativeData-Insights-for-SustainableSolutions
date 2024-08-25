@@ -81,7 +81,7 @@ Maji Ndogo’s water crisis was a multifaceted problem, deeply affecting the dai
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Engaging with Sustainable-Data-Driven-Solutions-through-Data-Analysis-of-Water-Crisis
+## Engaging with Sustainable-Data-Driven-Solutions-through-Data-Analysis-of-Water-Crisis Project
 
 
 ## Step 1: Clone the Repository
